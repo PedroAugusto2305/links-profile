@@ -1,0 +1,21 @@
+.subtitle {
+    font-size: 1.125rem;
+    color: #24252b;
+    font-weight: 400;
+}
+
+.workInfo {
+    font-size: 1.125rem;
+    font-weight: 400;
+    color: #24252b;
+    margin-bottom: 1rem;
+}
+
+.highlight {
+    font-weight: bold;
+}
+
+.separator {
+    border-bottom: 1px solid #73869a;
+    margin-bottom: 3cap;
+}

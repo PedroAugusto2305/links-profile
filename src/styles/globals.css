@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #222223;
+
+  font-family: sans-serif;
+}
+
+/* 
+Fundo Primário: #222223 - Um tom escuro, perfeito para o fundo do site, proporcionando um visual elegante e sofisticado.
+
+Cor Secundária: #676769 - Um cinza médio que pode ser utilizado para áreas de fundo secundárias ou para textos menos proeminentes.
+
+Elementos Principais e Fundos de Seção:
+
+#8fb3c6 - Um azul claro suave, ideal para fundos de seções ou elementos que requerem um pouco mais de destaque sem serem muito chamativos.
+#b6d6e5 - Um azul mais claro, ótimo para criar um contraste mais suave com os elementos principais.
+Acentos e Destaques:
+
+#3d3f49 - Um tom mais escuro que pode ser usado para texto ou para criar profundidade em elementos de design.
+#73869a - Um azul acinzentado que poderia servir para destaques secundários ou ícones.
+
+
+*/
